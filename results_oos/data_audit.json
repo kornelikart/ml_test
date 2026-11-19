@@ -1,0 +1,11 @@
+{
+  "period": "control",
+  "cycles": 17,
+  "low_volume_cycles": 12,
+  "max_stale_iv_days": 1,
+  "excluded": [],
+  "option_marks": "model, based on prior daily settlement; NOT bid/ask",
+  "valuation_clock_assumption": "23:59:59",
+  "available_after": "next calendar date",
+  "publication_timestamps_observed": false
+}

@@ -1,0 +1,38 @@
+{
+  "data_selection": [
+    {
+      "selection": "2026-02-23",
+      "target_dte": 7,
+      "reason": "No valid paired series / Monday settlement"
+    },
+    {
+      "selection": "2026-02-23",
+      "target_dte": 14,
+      "reason": "No valid paired series / Monday settlement"
+    },
+    {
+      "selection": "2026-02-23",
+      "target_dte": 21,
+      "reason": "No valid paired series / Monday settlement"
+    },
+    {
+      "selection": "2026-02-23",
+      "target_dte": 28,
+      "reason": "No valid paired series / Monday settlement"
+    }
+  ],
+  "simulation": [
+    {
+      "cycle": "2025-12-30",
+      "reason": "entry or exit day missing"
+    },
+    {
+      "cycle": "2026-04-28",
+      "reason": "entry or exit day missing"
+    },
+    {
+      "cycle": "2026-06-09",
+      "reason": "entry or exit day missing"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "period": "development",
+  "cycles": 26,
+  "low_volume_cycles": 20,
+  "max_stale_iv_days": 2,
+  "excluded": [
+    {
+      "cycle": "2025-12-30",
+      "reason": "entry or exit day missing"
+    },
+    {
+      "cycle": "2026-04-28",
+      "reason": "entry or exit day missing"
+    },
+    {
+      "cycle": "2026-06-09",
+      "reason": "entry or exit day missing"
+    }
+  ],
+  "option_marks": "model, based on prior daily settlement; NOT bid/ask",
+  "valuation_clock_assumption": "23:59:59",
+  "available_after": "next calendar date",
+  "publication_timestamps_observed": false
+}
